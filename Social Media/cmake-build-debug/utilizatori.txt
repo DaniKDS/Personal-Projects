@@ -1,0 +1,18 @@
+1 dani 30 dany@yahoo.ro 3434gg4 0 0 0 0
+2 paul 30 paul@gmail.com 2r34g 0 0 0 0
+3 Dani 20 dani@yahoo.ro dani123 0 0 2 5 4 0
+4 Popica 20 popicu pop123 0 0 3 3 6 10 0
+5 Vasilica 30 vas@yahoo.ro vasil123 0 0 2 3 11 0
+6 Vasile 23 va@yahoo.ro vasi123 0 0 3 4 9 12 0
+7 Vasi 44 v@yahoo.ro vas123 0 0 2 16 17 0
+8 Ion 12 ion@yahoo.ro ion123 0 0 2 14 15 0
+9 Ionel 34 ionel@yahoo.ro ionel123 0 0 2 6 11 0
+10 Ionut 26 ionu@yahoo.ro ionu123 0 0 2 12 13 0
+11 Ioan 51 oan@yahoo.ro oan123 0 0 2 5 9 0
+12 Andrei 22 deiu@yahoo.ro deiu123 0 0 2 10 13 0
+13 George 19 georg@yahoo.ro eorg123 0 0 2 10 12 0
+14 Septimiu 23 septi@yahoo.ro septi123 0 0 2 8 15 0
+15 Marcel 33 marci@yahoo.ro marci123 0 0 2 8 14 0
+16 Marius 42 mars@yahoo.ro mars123 0 0 2 7 17 0
+17 Paul 51 pal@yahoo.ro pal231 0 0 2 7 16
+
