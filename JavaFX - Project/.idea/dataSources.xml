@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="MAP_ToySocialNetwork@localhost" uuid="e1235872-4db2-4d34-b98f-9b3e7b70620f">
+    <data-source source="LOCAL" name="JavaFx@localhost" uuid="b46806b9-bb53-4f3e-bdc4-9707a90e6afd">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/MAP_ToySocialNetwork</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/JavaFx</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

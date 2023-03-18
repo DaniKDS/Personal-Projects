@@ -5,8 +5,11 @@ module com.example.javafxproject {
     requires org.controlsfx.controls;
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
-    requires com.almasb.fxgl.all;
+    requires java.sql;
 
     opens com.example.javafxproject to javafx.fxml;
     exports com.example.javafxproject;
+    exports com.example.javafxproject.gui;
+    opens com.example.javafxproject.gui to javafx.fxml;
+    exports com.example.javafxproject.domain;
 }
