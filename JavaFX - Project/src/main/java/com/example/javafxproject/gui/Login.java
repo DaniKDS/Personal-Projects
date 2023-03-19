@@ -40,8 +40,7 @@ public class Login {
     public void onLoginButtonClick() throws IOException {
         String email = emailText.getText();
         String password = passwordText.getText();
-        User user = userService.findByEmailPass(email, password);
-        if (user == null) {
+        if (email == null) {
             addedText.setText("Invalid credentials! Please try again!");
             passwordText.setText("");
         } else {
@@ -49,7 +48,7 @@ public class Login {
             fxmlLoader.setLocation(getClass().getResource("/com/example/javafxproject/main-window.fxml"));
             AnchorPane root = fxmlLoader.load();
             MainWindow mainWindow = fxmlLoader.getController();
-            mainWindow.setAll(userService, friendshipService, messageService, user);
+            mainWindow.setAll(userService, friendshipService, messageService);
 
             Stage stage = new Stage();
             stage.setScene(new Scene(root, 800, 600));

@@ -67,7 +67,7 @@ public class MainWindow {
         this.loggedUser = loggedUser;
     }
 
-    public void setAll(UserService userService, FriendshipService friendshipService, MessageService messageService, User loggedUser) {
+    public void setAll(UserService userService, FriendshipService friendshipService, MessageService messageService) {
         setUserService(userService);
         setFriendshipService(friendshipService);
         setLoggedUser(loggedUser);

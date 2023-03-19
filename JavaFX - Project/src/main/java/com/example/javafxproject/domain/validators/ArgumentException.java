@@ -3,7 +3,7 @@ package com.example.javafxproject.domain.validators;
 /**
  * Custom class for Exceptions for arguments
  */
-public class ArgumentException extends RuntimeException{
+public class ArgumentException extends RuntimeException {
     public ArgumentException() {
         super();
     }

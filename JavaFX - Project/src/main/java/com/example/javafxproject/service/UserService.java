@@ -4,7 +4,6 @@ package com.example.javafxproject.service;
 import com.example.javafxproject.domain.User;
 import com.example.javafxproject.domain.validators.ArgumentException;
 import com.example.javafxproject.repository.db.DbUserRepository;
-import com.example.javafxproject.utils.Secure;
 
 import java.util.List;
 
@@ -50,26 +49,12 @@ public class UserService {
      * @throws ArgumentException if the entity is null
      */
     public void add(String firstname, String lastname, String email, String password) {
-        byte[] salt = Secure.getSalt();
-        String stringSalt = Secure.fromByteToStringHex(salt);
-        String hashedPass = Secure.getHashedPassword(password, salt);
-        User user = new User(firstname, lastname, email, hashedPass, stringSalt);
+
+        User user = new User(firstname, lastname, email , password);
         user.setId(repository.getLowestFreeId());
         if (repository.save(user) != null) {
             throw new ArgumentException("Id already taken");
         }
-    }
-
-    public User findByEmailPass(String email, String password) {
-        String stringSalt = repository.getSaltWEmail(email);
-
-        if (stringSalt == null) {
-            return null;
-        }
-
-        byte[] salt = Secure.getSaltFromHex(stringSalt);
-        String hashPass = Secure.getHashedPassword(password, salt);
-        return repository.findByEmailPass(email, hashPass);
     }
 
     /**
@@ -86,9 +71,9 @@ public class UserService {
     }
 
     public void update(Long id, String firstname, String lastname, String email, String password) {
-        User user = new User(firstname,lastname,email,password, repository.findOne(id).getSalt());
+        User user = new User(firstname,lastname,email,password);
         user.setId(id);
         repository.update(user);
     }
 
-}
+    }

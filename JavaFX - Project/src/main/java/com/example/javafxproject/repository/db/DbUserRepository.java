@@ -34,7 +34,6 @@ public class DbUserRepository extends MemoryUserRepository {
                 preparedStatement.setString(3, entity.getLastname());
                 preparedStatement.setString(4, entity.getEmail());
                 preparedStatement.setString(5, entity.getPassword());
-                preparedStatement.setString(6, entity.getSalt());
                 preparedStatement.executeUpdate();
             } catch (SQLException sqlException) {
                 sqlException.printStackTrace();
@@ -139,8 +138,7 @@ public class DbUserRepository extends MemoryUserRepository {
                 String lastname = resultSet.getString("lastname");
                 String email = resultSet.getString("email");
                 String pass = resultSet.getString("pass");
-                String salt = resultSet.getString("salt");
-                User user = new User(firstname, lastname, email, pass, salt);
+                User user = new User(firstname, lastname, email , pass);
                 user.setId(id);
                 super.save(user);
             }
