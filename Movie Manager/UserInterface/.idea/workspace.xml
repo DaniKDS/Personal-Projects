@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b158ce9-c43c-4958-9b1a-5d205791f899" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/.idea/dataSources/e1235872-4db2-4d34-b98f-9b3e7b70620f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/.idea/dataSources/e1235872-4db2-4d34-b98f-9b3e7b70620f/storage_v2/_src_/database/MAP_ToySocialNetwork.Bsp9Pw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/.idea/dataSources/e1235872-4db2-4d34-b98f-9b3e7b70620f/storage_v2/_src_/database/MAP_ToySocialNetwork.Bsp9Pw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/.idea/dataSources/e1235872-4db2-4d34-b98f-9b3e7b70620f/storage_v2/_src_/database/MAP_ToySocialNetwork.Bsp9Pw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/.idea/dataSources/e1235872-4db2-4d34-b98f-9b3e7b70620f/storage_v2/_src_/database/MAP_ToySocialNetwork.Bsp9Pw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__com_dlsc_formsfx_formsfx_core_11_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_controlsfx_controlsfx_11_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_base_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_base_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_controls_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_controls_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_fxml_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_graphics_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_openjfx_javafx_graphics_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/libraries/Gradle__org_postgresql_postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/modules/MAP_ToySocialNetwork_JavaFx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/modules/MAP_ToySocialNetwork_JavaFx.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/modules/MAP_ToySocialNetwork_JavaFx.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/Friendship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/MessageDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/UserDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/validators/ArgumentException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/validators/FriendshipValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/validators/MessageValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/validators/UserValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/validators/ValidationException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/domain/validators/Validator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/gui/Chat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/gui/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/gui/MainWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/gui/RegisterWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/db/DbFriendshipRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/db/DbMessageRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/db/DbUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/file/FileFriendshipRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/file/FileUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/memory/MemoryFriendshipRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/memory/MemoryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/repository/memory/MemoryUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/service/FriendshipService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/service/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/com/example/map_toysocialnetwork_javafx/utils/Secure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/classes/java/main/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/libs/MAP_ToySocialNetwork_JavaFx-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/resources/main/com/example/map_toysocialnetwork_javafx/chat.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/resources/main/com/example/map_toysocialnetwork_javafx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/resources/main/com/example/map_toysocialnetwork_javafx/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/resources/main/com/example/map_toysocialnetwork_javafx/main-window.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/resources/main/com/example/map_toysocialnetwork_javafx/register-window.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toy-Social-Network-main/Toy-Social-Network-main/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaFX - Project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaFX - Project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Movie Manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Movie Manager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/gradlew.bat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2PCPOl2VDIcBNoyH6CZYxvGfvu3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b158ce9-c43c-4958-9b1a-5d205791f899" name="Changes" comment="" />
+      <created>1682958061418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682958061418</updated>
+      <workItem from="1682958062521" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

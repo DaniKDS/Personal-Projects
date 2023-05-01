@@ -1,10 +1,11 @@
 from dataclasses import dataclass
 
+from Domain.entity import Entity
+
 
 @dataclass
-class Film:
+class Film(Entity):
 
-    id_film: str
     titlu: str
     an_aparitie: str
     pret_bilet: float

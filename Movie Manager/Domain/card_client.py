@@ -1,10 +1,10 @@
 from dataclasses import dataclass
 
+from Domain.entity import Entity
+
 
 @dataclass
-class CardClient:
-
-    id_card_client: str
+class CardClient(Entity):
     nume: str
     prenume: str
     CNP: str
