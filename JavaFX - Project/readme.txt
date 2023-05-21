@@ -1,5 +1,4 @@
-readme_content = '''
-# Social Network
+#Social Network
 
 ## Description
 This is a university project that aims to implement a toy social network. The project was developed during the first semester of the second academic year.
