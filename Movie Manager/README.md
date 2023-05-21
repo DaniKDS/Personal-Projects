@@ -1,5 +1,5 @@
 
-### Mate-info
+### UBB-FMI
 0. Teste și specificații la toate iterațiile.
 1. **Iterația 1** 
    - Toate CRUD-urile, minim încă o funcționalitate diferită de CRUD. Cu validări, arhitectură stratificată cu toate elementele descrise la curs. Salvarea datelor în fișiere.  
