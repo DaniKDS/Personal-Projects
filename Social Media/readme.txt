@@ -1,4 +1,3 @@
-
 # Social Media
 
 This project is developed using the following Abstract Data Types (ADTs):
