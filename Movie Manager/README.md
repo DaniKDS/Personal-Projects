@@ -1,30 +1,53 @@
-
 ### UBB-FMI
-0. Teste și specificații la toate iterațiile.
-1. **Iterația 1** 
-   - Toate CRUD-urile, minim încă o funcționalitate diferită de CRUD. Cu validări, arhitectură stratificată cu toate elementele descrise la curs. Salvarea datelor în fișiere.  
-   - Fără warning-uri PEP 8.
-2. **Iterația 2**
-   - Toate funcționalitățile în afară de Undo+Redo. 
-   - Repository generic, clase proprii de excepții. 
-   - Folosirea type hinting, ABC, protocol.
-   - Fără warning-uri PEP 8.
-3. **Iterația 3**
-   - Implementat Undo+Redo eficient.
-   - Refactorizat toate funcționalitățile posibile folosind `map`, `filter`, `list comprehensions`, `reduce`, `filter`.
-   - Refactorizat minim o metodă folosind recursivitate.
-   - Refactorizat minim două metode folosind lambda.
-   - Implementat și folosit o funcție proprie de sortare care să aibă aceeași interfață cu funcția `sorted` din Python.
+0. Tests and specifications for all iterations.
+1. **Iteration 1**
+   - All CRUD operations with at least one additional functionality. Validations included. Layered architecture with all elements described in the course. Data persistence using files.
+   - No PEP 8 warnings.
+2. **Iteration 2**
+   - All functionalities except Undo+Redo.
+   - Generic repository, custom exception classes.
+   - Type hinting, ABC, protocol usage.
+   - No PEP 8 warnings.
+3. **Iteration 3**
+   - Efficient implementation of Undo+Redo.
+   - Refactoring of all possible functionalities using `map`, `filter`, `list comprehensions`, `reduce`, `filter`.
+   - Refactoring of at least one method using recursion.
+   - Refactoring of at least two methods using lambda.
+   - Implementation and usage of a custom sorting function with the same interface as Python's `sorted` function.
 
-În toate problemele, **căutare full text** înseamnă că stringul introdus de utilizator se caută în toate câmpurile tuturor entităților menționate. Se returnează toate entitățile în ale căror câmpuri se găsește stringul. Se pot returna entități de tipuri diferite.
+In all problems, **full-text search** means that the user-entered string is searched in all fields of all mentioned entities. All entities in whose fields the string is found are returned. Entities of different types can be returned.
 
 2. **Cinema**
-    2.1. CRUD film: id, titlu, an apariție, preț bilet, în program. Prețul să fie strict pozitiv.  
-    2.2. CRUD card client: id, nume, prenume, CNP, data nașterii (`dd.mm.yyyy`), data înregistrării (`d.mm.yyyy`), puncte acumulate. CNP-ul trebuie să fie unic.  
-    2.3. CRUD rezervare: id, id_film, id_card_client (poate fi nul), data și ora. Clientul acumulează pe card `10%` (parte întreagă) din prețul filmului. Se tipărește numărul total de puncte de pe card. Rezervarea se poate face doar dacă filmul este încă în program.  
-    2.4. Căutare filme și clienți. Căutare full text.
-    2.5. Afișarea tuturor rezervărilor dintr-un interval de ore dat, indiferent de zi./service_rezervare/facut 
-    2.6. Afișarea filmelor ordonate descrescător după numărul de rezervări./ service_rezervare /rezolvat
-    2.7. Afișarea cardurilor client ordonate descrescător după numărul de puncte de pe card./service_card_client/rezolvat  
-    2.8. Ștergerea tuturor rezervărilor dintr-un anumit interval de zile./service_rezervare / 
-    2.9. Incrementarea cu o valoare dată a punctelor de pe toate cardurile a căror zi de naștere se află într-un interval dat./card_service   
+    2.1. Film CRUD: id, title, release year, ticket price, currently running. The ticket price must be strictly positive.
+    2.2. Client card CRUD: id, first name, last name, CNP, date of birth (`dd.mm.yyyy`), registration date (`d.mm.yyyy`), accumulated points. CNP must be unique.
+    2.3. Reservation CRUD: id, film id, client card id (can be null), date and time. The client accumulates `10%` (integer part) of the film's price on the card. The total number of points on the card is printed. Reservation can only be made if the film is currently running.
+    2.4. Search for films and clients. Full-text search.
+    2.5. Display all reservations within a given time interval, regardless of the day./service_rezervare/facut
+    2.6. Display films sorted in descending order by the number of reservations./service_rezervare/rezolvat
+    2.7. Display client cards sorted in descending order by the number of points on the card./service_card_client/rezolvat
+    2.8. Delete all reservations within a specific range of days./service_rezervare/
+    2.9. Increase the points on all cards whose date of birth falls within a given interval by a given value./card_service
+
+Please refer to the corresponding sections for detailed explanations of each iteration and problem.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your/repository.git`
+2. Navigate to the project directory: `cd project-directory`
+3. Install the dependencies: `npm install`
+4. Build the project: `npm run build`
+5. Start the application: `npm start`
+
+Make sure you have [Node.js](https://nodejs.org) installed on your machine.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Submit a pull request
