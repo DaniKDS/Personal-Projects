@@ -6,7 +6,7 @@ Let's create something amazing together!
 
 ## Contact
 
-If you have any questions or would like to discuss potential collaboration opportunities, feel free to reach out to me at [your-email@example.com](mailto:cordis_dany@yahoo.com).
+If you have any questions or would like to discuss potential collaboration opportunities, feel free to reach out to me at [cordis_dany@yahoo.com](mailto:cordis_dany@yahoo.com).
 
 Thank you for visiting my personal projects repository! I hope you find my work impressive and valuable for potential interview discussions.
 
