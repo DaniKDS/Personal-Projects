@@ -1,3 +1,3 @@
-D:/semestrul 2/Structuri de date/proiect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/semestrul 2/Structuri de date/proiect/cmake-build-debug/CMakeFiles/proiect.dir
-D:/semestrul 2/Structuri de date/proiect/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Personal-Projects/Social Media/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Personal-Projects/Social Media/cmake-build-debug/CMakeFiles/proiect.dir
+D:/Personal-Projects/Social Media/cmake-build-debug/CMakeFiles/edit_cache.dir
